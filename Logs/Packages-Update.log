@@ -26,3 +26,12 @@ The following packages were added:
   com.unity.cinemachine@2.3.3
   com.unity.postprocessing@2.1.6
   com.unity.xr.legacyinputhelpers@2.0.2
+
+=== Mon Jan 13 10:25:08 2020
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.2d.sprite@1.0.0
+  com.unity.ide.visualstudio@1.0.11
