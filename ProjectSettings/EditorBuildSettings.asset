@@ -39,6 +39,12 @@ EditorBuildSettings:
     path: 
     guid: 270072cfc180a47179cff49edea38e4c
   - enabled: 1
+    path: Assets/Scenes/First Scene.unity
+    guid: 0cc279bb224b30d498f04809098bb6fd
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: 4b93748d152bc6145b24f573ec5c0a4d
+  - enabled: 1
     path: Assets/NewScene.unity
     guid: 1b6fd90cf2d7eee49895bf4317d238d4
   m_configObjects: {}
