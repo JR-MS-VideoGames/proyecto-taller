@@ -39,6 +39,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SecondScene.unity
     guid: 70a536a2993902d4e898c407dfc70897
   - enabled: 1
+    path: Assets/Scenes/FinalBoss.unity
+    guid: e5db12d2b6385bd48af66c3de159493b
+  - enabled: 1
     path: Assets/Scenes/ThirdScene.unity
     guid: 834818c3f53780b4494feb303fbf1f71
   m_configObjects: {}
