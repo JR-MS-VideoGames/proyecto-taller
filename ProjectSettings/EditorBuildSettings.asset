@@ -29,25 +29,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2DGamekit/Prefabs/Scenes/UI/Loading.unity
     guid: ebc4647ff02971c4ba1b207af066be4d
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/TutorialScene.unity
     guid: 4b93748d152bc6145b24f573ec5c0a4d
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/FourthScene.unity
     guid: 221fb2e946e244f49ab9c89384593646
+  - enabled: 1
+    path: Assets/Scenes/SecondScene.unity
+    guid: 70a536a2993902d4e898c407dfc70897
+  - enabled: 1
+    path: Assets/Scenes/ThirdScene.unity
+    guid: 834818c3f53780b4494feb303fbf1f71
   m_configObjects: {}
